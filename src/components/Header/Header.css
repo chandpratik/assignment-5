@@ -1,0 +1,16 @@
+.navbar {
+  background: #99ff7a;
+}
+
+.nav {
+  height: 55px;
+  display: flex;
+  margin: 0;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.nav > a {
+  text-decoration: none;
+}
